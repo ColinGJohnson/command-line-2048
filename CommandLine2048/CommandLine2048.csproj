@@ -5,11 +5,6 @@
         <TargetFramework>net6.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
-        <ApplicationIcon>why.ico</ApplicationIcon>
     </PropertyGroup>
-
-    <ItemGroup>
-      <Content Include="why.ico" />
-    </ItemGroup>
 
 </Project>
