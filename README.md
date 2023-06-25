@@ -1,3 +1,3 @@
 # Command-Line 2048
 
-Play the popular game "2048" on the command line.
+A command-line clone of https://github.com/gabrielecirulli/2048.
